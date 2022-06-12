@@ -8,7 +8,7 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-2/Diagonal/diagonal.cpp">5. Diagonal Difference</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-2/plus-minus.cpp">6. Plus-Minus</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-2/plus-minus/plus-minus.cpp">7. Staircase</a></ol>
-<ol><a href="">8. Min-Max Sum</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-2/Min-Max%20sum/min-max.cpp">8. Min-Max Sum</a></ol>
 
 
 
