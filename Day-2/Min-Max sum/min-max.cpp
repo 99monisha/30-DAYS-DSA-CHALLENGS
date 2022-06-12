@@ -1,9 +1,5 @@
 
 #include <algorithm>
-#include <string.h>
-#include <vector>
-#include <cstdio>
-#include <climits>
 #include <iostream>
 using namespace std;
 typedef long long lld;
@@ -18,7 +14,7 @@ int main ()
 
     for (int i=1; i<=N; i++)
     {
-        scanf("%lld", &arr[i]);
+       cin>>arr[i];
         ToatalSum+= arr[i];
     }
 
@@ -29,5 +25,5 @@ int main ()
         MAX = max(MAX, cur);
     }
 
-    printf("%lld %lld\n", MIN, MAX);
+    cout<<MIN<<MAX;
 }
