@@ -5,6 +5,6 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-1/Triplets/triplets.cpp">3. Compare Triplets</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-1/A%20%20Very%20Big%20Sum/bsum.cpp">4. A Very Big Sum</a></ol>
 <h2>DAY-2</h2>
-<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-2/diagonal.cpp">5. Diagonal Dofference</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-2/diagonal.cpp">5. Diagonal Difference</a></ol>
 
 
