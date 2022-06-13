@@ -9,6 +9,9 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-2/plus-minus/plus-minus.cpp">6. Plus-Minus</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-2/Staircase/stair.cpp">7. Staircase</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-2/Min-Max%20sum/min-max.cpp">8. Min-Max Sum</a></ol>
-
-
+<h2>DAY-3</h2>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-3/BirthdayCakeCandels/cake.cpp">9. Birthday Cake Candles</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-3/apple%20and%20orange/apor.cpp">10. Apple and Orange</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-3/grading-student/grading.cpp">11. Grading Student</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-3/timeconversion/timeconversion.cpp">12. Time Conversion</a></ol>
 
