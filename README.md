@@ -19,4 +19,7 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-4/Divisable%20sum%20pair/sumpair.cpp">14. Divisable Sum Pair</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-4/Number%20Line%20Jumps/numberline.cpp">15. Number Line Jumps</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-4/Subarray%20Division/subarray.cpp">16. Subarray Division</a></ol>
+<h2>DAY-5</h2>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-5/Migaratory%20Birds/miga.cpp">14. Migratory Birds</a></ol>
+
 
