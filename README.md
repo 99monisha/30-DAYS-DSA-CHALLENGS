@@ -21,5 +21,10 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-4/Subarray%20Division/subarray.cpp">16. Subarray Division</a></ol>
 <h2>DAY-5</h2>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-5/Migaratory%20Birds/miga.cpp">17. Migratory Birds</a></ol>
+<h2>DAY-6</h2>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-6/Bill%20Division/bill.cpp">18. Bill Division</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-6/Drawing%20Book/drawing.cpp">19. Drawing Book</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-6/day%20of%20the%20programer/dayprogram.cpp">20. Day of THe Program</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-6/sales%20by%20Match/sales.cpp">21. Sales by Match</a></ol>
 
 
