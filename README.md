@@ -26,5 +26,14 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-6/Drawing%20Book/drawing.cpp">19. Drawing Book</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-6/day%20of%20the%20programer/dayprogram.cpp">20. Day of THe Program</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-6/sales%20by%20Match/sales.cpp">21. Sales by Match</a></ol>
+<h2>DAY-7</h2>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-7/Cats%20%26%20Mouse/CatsMouse.cpp">22. Cats And Mouse</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-7/Electronics%20Shop/shop.cpp">23. Electronic Shopk</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-7/Forming%20A%20Magic%20Square/Magic.cpp">24. Forming A Magic Square</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-7/counting%20valleys/valleys.cpp">25. Counting Valleys</a></ol>
+
+
+
+
 
 
