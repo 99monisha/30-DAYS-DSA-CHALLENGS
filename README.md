@@ -28,7 +28,7 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-6/sales%20by%20Match/sales.cpp">21. Sales by Match</a></ol>
 <h2>DAY-7</h2>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-7/Cats%20%26%20Mouse/CatsMouse.cpp">22. Cats And Mouse</a></ol>
-<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-7/Electronics%20Shop/shop.cpp">23. Electronic Shopk</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-7/Electronics%20Shop/shop.cpp">23. Electronic Shop</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-7/Forming%20A%20Magic%20Square/Magic.cpp">24. Forming A Magic Square</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-7/counting%20valleys/valleys.cpp">25. Counting Valleys</a></ol>
 <h2>DAY-8</h2>
@@ -38,6 +38,7 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-8/Designer%20PDF%20Viewer/pdf.cpp">29. Designer PDF Viewer </a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-8/Utopian%20Tree/utopian.cpp">30. Utopian Tree</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-8/Angry%20Professor/AngryProf.cpp">31. Angry Professor</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-8/Beautiful%20Day%20Movie/movie.cpp">32. Beautiful Day of the Movie</a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 
