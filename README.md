@@ -35,7 +35,11 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-8/Clibing%20the%20leader%20board/climb.cpp">26. Climbing The Leader Board</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-8/Picking%20Number/picking.cpp">27. Picking Number </a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-8/The%20Hurdle%20Race/hurdle.cpp">28. The Hurdle Race </a></ol>
-<ol><a href="">29. Designer PDF Viewer </a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-8/Designer%20PDF%20Viewer/pdf.cpp">29. Designer PDF Viewer </a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
 
 
 
