@@ -31,6 +31,11 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-7/Electronics%20Shop/shop.cpp">23. Electronic Shopk</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-7/Forming%20A%20Magic%20Square/Magic.cpp">24. Forming A Magic Square</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-7/counting%20valleys/valleys.cpp">25. Counting Valleys</a></ol>
+<h2>DAY-8</h2>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-8/Clibing%20the%20leader%20board/climb.cpp">26. Climbing The Leader Board</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-8/Picking%20Number/picking.cpp">27. Picking Number </a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-8/The%20Hurdle%20Race/hurdle.cpp">28. The Hurdle Race </a></ol>
+<ol><a href="">29. Designer PDF Viewer </a></ol>
 
 
 
