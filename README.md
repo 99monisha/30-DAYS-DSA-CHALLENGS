@@ -40,6 +40,16 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-8/Angry%20Professor/AngryProf.cpp">31. Angry Professor</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-8/Beautiful%20Day%20Movie/movie.cpp">32. Beautiful Day of the Movie</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-8/Viral%20Advertising/viadv.cpp">33. Viral Advertising</a></ol>
+<h2>DAY-9</h2>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-9/Circular%20array%20rotation/rotation.cpp">Circular Array Rotation</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-9/Cut%20the%20sticks/sticks.cpp">Cut the Sticks</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-9/Library%20Fine/Lfine.cpp">Library Fine</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-9/Save%20the%20prisoner/prisoner.cpp"></a>Save the Prisoner</ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-9/Sequence%20Equeation/equeation.cpp">sequence Equeation</a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 
 
