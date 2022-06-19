@@ -44,7 +44,7 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-9/Circular%20array%20rotation/rotation.cpp">Circular Array Rotation</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-9/Cut%20the%20sticks/sticks.cpp">Cut the Sticks</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-9/Library%20Fine/Lfine.cpp">Library Fine</a></ol>
-<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-9/Save%20the%20prisoner/prisoner.cpp"></a>Save the Prisoner</ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-9/Save%20the%20prisoner/prisoner.cpp">Save the Prisoner</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-9/Sequence%20Equeation/equeation.cpp">sequence Equeation</a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
