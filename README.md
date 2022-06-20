@@ -52,7 +52,7 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-10/Find%20Digits/Digits.cpp">41. Finds Digits</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-10/jumping%20on%20the%20clouds2/clouds.cpp">42. Jumping on the Clouds 
   2</a></ol>
-<ol><a href=""></a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-10/Sherlock%20%26%20Square/ShSq.cpp">43. Sherlock And Square</a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 
