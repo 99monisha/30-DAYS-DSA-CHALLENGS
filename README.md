@@ -57,6 +57,14 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-10/Equalise%20the%20Array/Equiar.cpp">45. Equalize the Array</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-10/ACM%20IP/acmp.cpp">46. ACM ICPC Team</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-10/Taum%20and%20Bday/taum.cpp">47. Taum and B'day</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-10/Beautiful%20Triplets/triplets.cpp">48. Beautiful Triplets</a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
