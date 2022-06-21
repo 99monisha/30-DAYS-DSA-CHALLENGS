@@ -61,7 +61,7 @@
 <h2>DAY-11</h2>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-11/organising%20the%20container%20of%20balls/ball.cpp">49. Organising Container of Ball</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-11/Encryptions/encryp.cpp">50. Encryption</a></ol>
-<ol><a href=""></a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-11/Modified%20Kaprekar%20Numbers/Mkanum.cpp">51. Modified Kaprekar Number</a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
