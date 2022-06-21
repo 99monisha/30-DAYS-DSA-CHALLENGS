@@ -60,7 +60,7 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-10/Beautiful%20Triplets/triplets.cpp">48. Beautiful Triplets</a></ol>
 <h2>DAY-11</h2>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-11/organising%20the%20container%20of%20balls/ball.cpp">49. Organising Container of Ball</a></ol>
-<ol><a href=""></a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-11/Encryptions/encryp.cpp">50. Encryption</a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
