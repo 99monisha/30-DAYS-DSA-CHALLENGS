@@ -67,6 +67,16 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-11/Chocolate%20Feast/choco.cpp">54. Chocolate Feast</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-11/Service%20Lane/lane.cpp">55. Service Lane</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-11/Lisa's%20Workbook/lisa.cpp">56. Lisa's Workbook</a></ol>
+<h2>DAY-12</h2>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-12/Fair%20Rations/fair.cpp">57. Fair Rations</a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
