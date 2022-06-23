@@ -78,6 +78,12 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-13/Intro%20to%20Tutorial%20Challenges/tutorials.cpp">63. Tutorials Challengs</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-13/Insertion%20Sort-1/sort.cpp">64. Insertion Sort Part-1</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-13/Insertion-2/sor.cpp">65. Insertion Sort Part-2</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-13/Strong%20Password/pass.cpp">66. Strong Password</a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
+<ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
