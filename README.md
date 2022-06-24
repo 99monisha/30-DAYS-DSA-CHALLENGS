@@ -92,7 +92,7 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-14/Gemstones/gems.cpp">76. Gemstones</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-14/Alternating%20Characters/alter.cpp">77. Alternating Character</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-14/Beautiful%20Binary%20String/binary.cpp">78. Beautiful String</a></ol>
-<ol><a href=""></a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-14/The%20Love-Letter%20Mystery/letter.cpp">79. The Love-Letter Mystery</a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
