@@ -86,7 +86,7 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-13/Pangrams/pan.cpp">71. Pangrams</a></ol>
 <h2>DAY-14</h2>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-14/Separate%20the%20Numbers/sep.cpp">72. Separete Numbers</a></ol>
-<ol><a href=""></a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-14/Counting%20Sort%201/sort.cpp">73. Counting Sort1</a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
