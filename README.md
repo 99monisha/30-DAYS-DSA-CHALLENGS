@@ -83,7 +83,7 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-13/Mars%20Exploration/mars.cpp">68. Mars Exploration</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-13/Running%20Time%20of%20Algorithms/run.cpp">69. Running Time of Algorithms</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-13/HackerRank%20in%20a%20String!/str.cpp">70. HackerRank in a String!</a></ol>
-<ol><a href=""></a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-13/Pangrams/pan.cpp">71. Pangrams</a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
