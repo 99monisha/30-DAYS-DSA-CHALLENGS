@@ -90,7 +90,7 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-14/Counting%20Sort2/sor2.cpp">74. Counting Sort2</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-14/Funny%20String/fun.cpp">75. Funny String</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-14/Gemstones/gems.cpp">76. Gemstones</a></ol>
-<ol><a href=""></a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-14/Alternating%20Characters/alter.cpp">77. Alternating Character</a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
