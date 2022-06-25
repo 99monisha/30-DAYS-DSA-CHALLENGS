@@ -94,9 +94,9 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-14/Beautiful%20Binary%20String/binary.cpp">78. Beautiful String</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-14/The%20Love-Letter%20Mystery/letter.cpp">79. The Love-Letter Mystery</a></ol>
 <h2>DAY-15</h2>
-<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-15/Anagram/twost.cpp">80. Two String</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-15/Twostring.cpp/twost.cpp">80. Two String</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-15/Game%20of%20Thrones%20-%20I/game.cpp">81. Game of Thrones-1</a></ol>
-<ol><a href=""></a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-15/Making%20anagram/Making.cpp">82. Making Anagram</a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
