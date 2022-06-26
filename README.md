@@ -101,7 +101,7 @@
 <h2>DAY-16</h2>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-16/String%20Construction/string.cpp">84. string Construction</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-16/Extra%20Long%20Factorials/fact.cpp">85. Extra Long</a></ol>
-<ol><a href=""></a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-16/Non-Divisible%20Subset/non.cpp">86. Non-Divisible Subset</a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
