@@ -107,7 +107,7 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-16/Flatland%20Space%20Stations/flat.cpp">89. Flatland Space Stations</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-16/Larry's%20Array/array.cpp">90. Larry's Array</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-16/Almost%20Sorted/sort.cpp">91. Almost Sorted</a></ol>
-<ol><a href=""></a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-16/Absolute%20Permutation/permu.cpp">92. Absolute Permutation</a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
