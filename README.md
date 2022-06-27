@@ -109,8 +109,9 @@
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-16/Almost%20Sorted/sort.cpp">91. Almost Sorted</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-16/Absolute%20Permutation/permu.cpp">92. Absolute Permutation</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-16/3D%20Surface%20Area/surface.cpp">93. 3D Surface Area</a></ol>
-<ol><a href=""></a></ol>
-<ol><a href=""></a></ol>
+<h2>DAY-17</h2>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-17/Correctness%20and%20the%20Loop%20Invariant/correct.cpp">94. Correctness Invariant</a></ol>
+<ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-17/Matrix%20Layer%20Rotation/layer.cpp">95. Matrix Layer Rotation</a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
 <ol><a href=""></a></ol>
