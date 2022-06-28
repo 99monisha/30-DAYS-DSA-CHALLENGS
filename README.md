@@ -1,4 +1,4 @@
-# 100 DSA PROGRAMS USING C++ 🔥
+# 100 DSA PROGRAMS USING C++ 
 <h2>DAY-1</h2>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-1/solveme/solveme.cpp">1. Simple Sum Problem</a></ol>
 <ol><a href="https://github.com/99monisha/30-DAYS-DSA-CHALLENGS/blob/master/Day-1/simple%20Array%20sum/SimpleArraySum.cpp">2. Simple Array Sum Problem</a></ol>
