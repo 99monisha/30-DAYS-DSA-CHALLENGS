@@ -13,7 +13,7 @@ int main() {
     {
       for (int i = 0; i <= n - len;i++)
        {
-        string t = s.substr(i, len);
+        string t = s.substr(i, len); 
         sort(t.begin(), t.end());
         m[t]++;
       }
